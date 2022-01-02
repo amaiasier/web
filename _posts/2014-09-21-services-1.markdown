@@ -2,8 +2,8 @@
 layout: default
 img: chels_texas_sign.png
 category: Services
-title: NUESTRA BODA SERÁ
-description: RESERVAR LA FECHA
+title: Dónde y Cuándo
+description: ¡Quermos verte con nosotros!
 ---
 
 
