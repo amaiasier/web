@@ -2,18 +2,13 @@
 layout: default
 img: chels_texas_sign.png
 category: Services
-title: Location and schedule
-description: |
+title: NUESTRA BODA SERÁ
+description: RESERVAR LA FECHA
 ---
 
-### Sabado, 06 de Agosto, 2022
-(*Afternoon rehearsal meetup for wedding party members*)
-
-Unofficial gathering, all welcome:
-- **12:30** Jardin de Castillo de Gorraiz (http://www.cgrestaurante.es//), HOTEL CASTILLO DE GORRAIZ, IRUÑA-PAMPLONA
 
 ### Sabado, 06 de Agosto, 2022
-`The ceremony and reception are at the same venue:`
+
 
 *(http://www.cgrestaurante.es/), HOTEL CASTILLO DE GORRAIZ, IRUÑA-PAMPLONA*
 
