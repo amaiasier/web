@@ -15,7 +15,7 @@ description: RESERVAR LA FECHA
 - **12:30 pm Ceremonia**
 - 13:00 pm Apertivo de Bienvenida
 - 14:30 pm comida salon LANZAROT
-- 20:00 pm Musica y barr libre 3 horas
+- 20:00 pm Musica y barra libre 3 horas
 - 23:30 pm Fin de Fiesta.
 - 00:00 pm BUS de vuelta 
 
